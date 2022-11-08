@@ -25907,7 +25907,7 @@ A.JP(a)
 r=a.cs(t.cY)
 r=r==null?o:r.goJ()
 a.cs(t.bE)
-q=A.Kn(o,s,"\xa1Este es mi primer programa en Flutter con Git!")
+q=A.Kn(o,s,"\xa1Este es mi primer programa en Flutter con Git gr\xe1fico!")
 p=A.PG(q)
 return new A.nQ(q,B.b9,B.f,!0,B.vf,1,o,o,o,B.nr,r,o,o,p,o)}}
 A.aI.prototype={
